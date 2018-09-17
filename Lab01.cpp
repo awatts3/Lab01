@@ -2,6 +2,9 @@
 Andrew Watts
 COSC 2030 lab01
 September 17, 2018*/
+/*
+This program opens a file of doubles and counts how many values there are, as well as storing the first and last two values
+*/
 
 #include<iostream>
 using std::cout;
